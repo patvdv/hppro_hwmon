@@ -1,6 +1,6 @@
 # HP Proliant HW Monitor
 
-The hppro_hwmon Perl script will query the HP Linux hpasmcli and hpacucli command-line tools to check or show the health of your Proliant hardware. It will check following components:
+This Perl script will query the HP Linux `hpasmcli` and `hpacucli` command-line tools to check or show the health of your Proliant hardware. It will check following components:
 
 * Fans
 * Memory DIMMs
@@ -15,3 +15,4 @@ The script will check with a standard set of components but can be easily custom
 
 Note: The script has been tested on older Proliant G2-G6 generation systems only
 
+More documentation can be found at http://www.kudos.be/Projects/HP_Proliant_HW_monitor.html
