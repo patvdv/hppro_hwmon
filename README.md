@@ -15,4 +15,4 @@ The script will check with a standard set of components but can be easily custom
 
 Note: The script has been tested on older Proliant G2-G6 generation systems only
 
-More documentation can be found at http://www.kudos.be/Projects/HP_Proliant_HW_monitor.html
+More documentation can be found at <http://www.kudos.be/2013/05/02/hp-proliant-hw-monitor/>
